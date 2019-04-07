@@ -1,6 +1,7 @@
 # Socket-java-python
 A sample socket communication between client (java) and server(python) made for Computer Networks class.
 
+[Click here to read this in Portuguese](https://github.com/12afaelPereira/Socket-java-python/blob/master/README_PT.md)
 
 ---
 ### About
